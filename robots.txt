@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://hopexiao.github.io/blues/sitemap.xml 
